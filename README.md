@@ -3,10 +3,9 @@
 
 Created an API for fetching data from DB
 
-There are 5 files:
+There are 4 files:
 
-api.py : python code
-code.png : Screenshot of code
-Database.png : screenshot of DB
-Output.PNG : screenshot of output on browser
-Postman_screenshot.PNG : Screenshot of postman , API testing on the API
+1. api.py : python code
+2. Database.png : screenshot of DB
+3. Output.PNG : screenshot of output on browser
+4. Postman_screenshot.PNG : Screenshot of postman , API testing on the API
